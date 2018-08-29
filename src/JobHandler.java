@@ -24,6 +24,14 @@ public class JobHandler {
 		int currentRank = 0;
 		int warningDeRank = 0;
 		
+		switch(){
+		case 'A': 
+			if 
+		}
+		
+		switch(warningTotals){
+		case 
+		}
 		//Add Code Here [You have to use Switch and If/Else to get graded] 
 		
 		return currentRank - warningDeRank;
